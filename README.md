@@ -11,7 +11,7 @@ Once you have confirmed you are in fact an administrator, perform the following:
 Open the start menu, type "powershell" and run as administrator. 
 Run the following commands: 
 
-> cd C:\users\<ENTER YOUR USERNAME HERE>\downloads
+> cd C:\users\\\<ENTER YOUR USERNAME HERE>\downloads
 > .\RespondusLockdownRegKeyFix.ps1
 
 After you have gotten the script to run, reboot your computer. 
